@@ -1,7 +1,7 @@
-# 03inclass-recap-jenngla
+# 01recap-jenngla
 
 ## Project description:
-recap Projekt
+recap Project Interface
 
 ## Development platform:
 (Windows, Unity 2020.1.5f1, Visual Studio 2019)
@@ -14,21 +14,20 @@ none
 
 ## Necessary setup/execution steps:
 Download Visual Studio 2019
-Download and Run Unity 2020.1.5f1 (via UnityHub)
+Download Unity 2020.1.5f1 (via UnityHub)
+Open Project via Unity Hub
 
 ## Third party material:
 none
 
 ## Project state:
-90%
+100%
 
 ## Limitations:
-Make Calculator functional
-Report a letter in the place of a number
+none
 
 ## Lessons Learned:
 Build 2D Interface in Unity
-Randomize Colors
 
 
-Copyright by Jennifer Glantschnig :)
+Copyright Jennifer Glantschnig
