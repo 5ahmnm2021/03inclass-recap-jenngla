@@ -2,7 +2,7 @@
 
 
 ## Project description:
-recap Projekt
+Jenny's recap Projekt
 
 ## Development platform:
 (Windows, Unity 2020.1.5f1, Visual Studio 2019)
@@ -21,10 +21,10 @@ Download and Run Unity 2020.1.5f1 (via UnityHub)
 none
 
 ## Project state:
-95%
+100%
 
 ## Limitations:
-Report a letter in the place of a number
+none
 
 ## Lessons Learned:
 Build 2D Interface in Unity
@@ -34,4 +34,4 @@ using if/else
 using try and catch
 
 
-Copyright by Jennifer Glantschnig :)
+Copyright Jennifer Glantschnig
