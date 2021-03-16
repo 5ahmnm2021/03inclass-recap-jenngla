@@ -1,5 +1,6 @@
 # 03inclass-recap-jenngla
 
+
 ## Project description:
 recap Projekt
 
@@ -20,15 +21,17 @@ Download and Run Unity 2020.1.5f1 (via UnityHub)
 none
 
 ## Project state:
-90%
+95%
 
 ## Limitations:
-Make Calculator functional
 Report a letter in the place of a number
 
 ## Lessons Learned:
 Build 2D Interface in Unity
-Randomize Colors
+Randomize Colors using C#
+Calculate numbers using C#
+using if/else
+using try and catch
 
 
 Copyright by Jennifer Glantschnig :)
