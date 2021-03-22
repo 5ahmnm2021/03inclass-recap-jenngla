@@ -11,10 +11,15 @@ public class ColorChange : MonoBehaviour
     {
         Color[] colors =
         {
-            new Color32(255, 240, 50, 100),     // yellow-ish green
-            new Color32(200, 0, 0, 100),        // red
-            new Color32(50, 50, 255, 100),      // purple
-            new Color32(35, 200, 235, 100),     // blue
+            new Color32(255,205,25,255),
+            new Color32(95,34,15,255),
+            new Color32(207,63,21,255),
+            new Color32(102,47,84,255)
+
+            // new Color32(255, 240, 50, 100),     // yellow-ish green
+            // new Color32(200, 0, 0, 100),        // red
+            // new Color32(50, 50, 255, 100),      // purple
+            // new Color32(35, 200, 235, 100),     // blue
         };
 
         if(Input.GetKeyDown("space"))
